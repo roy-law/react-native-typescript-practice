@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+    name: npm install and check linting
 
     runs-on: ubuntu-latest
 
